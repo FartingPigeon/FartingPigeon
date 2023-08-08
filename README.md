@@ -1,6 +1,6 @@
 - 👋 Hi, I’m FartingPigeon
-- 👀 I’m Coding(obviously), Piano and Saxophone, Scouts and Pixel Art
-- 🌱 I’m currently Python
+- 👀 I’m into Coding(obviously), Piano and Saxophone, Scouts and Pixel Art
+- 🌱 I’m currently learning Python
 - 📫 You can reach out on..
 - Discord Farting_Pigeon#0025
 - Instagram jake_calamari
